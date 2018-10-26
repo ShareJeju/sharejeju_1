@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<nav id="nav">
+				<nav id="nav">
 					<ul class="ul-left">
 						<li><a href="main.html">홈</a></li>
 					</ul>
@@ -15,8 +15,7 @@
 				
 				<nav id="nav">
 					<ul class="ul-left-margin">
-						<li><a href="main.html">JEJU소개</a></li>
-						
+						<li><a href="main.html">JEJU소개</a></li>						
 					</ul>
 				</nav>
 				
