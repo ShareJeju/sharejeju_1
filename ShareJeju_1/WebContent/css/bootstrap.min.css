@@ -2,7 +2,9 @@
  * Bootstrap v3.3.2 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ 
  */ /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+ 
 html {
 	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
@@ -238,6 +240,7 @@ td, th {
 	}
 	.navbar {
 		display: none
+		
 	}
 	.btn>.caret, .dropup>.btn>.caret {
 		border-top-color: #000 !important
@@ -3790,7 +3793,6 @@ tbody.collapse.in {
 .dropup .dropdown-menu, .navbar-fixed-bottom .dropdown .dropdown-menu {
 	top: auto;
 	bottom: 100%;
-	margin-bottom: 2px
 }
 
 @media ( min-width :768px) {
@@ -4388,7 +4390,6 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 .navbar {
 	position: relative;
 	min-height: 50px;
-	margin-bottom: 20px;
 	border: 1px solid transparent
 }
 

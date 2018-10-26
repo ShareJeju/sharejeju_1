@@ -7,48 +7,18 @@
 <title>Insert title here</title>
 </head>
 <body>
-				<nav id="nav">
-					<ul class="ul-left">
-						<li><a href="main.html">홈</a></li>
-					</ul>
-				</nav>
-				
-				<nav id="nav">
-					<ul class="ul-left-margin">
-						<li><a href="main.html">JEJU소개</a></li>						
-					</ul>
-				</nav>
-				
-				<nav id="nav">
-					<ul class="ul-left-margin-two">
-						<li><a href="main.html">관광지</a></li>
-					</ul>
-				</nav>
-				
-				<nav id="nav">					
-					<ul class="ul-center">
-						<li><a href="left-sidebar.html">로고</a></li>
-					</ul>
-				</nav>
-				
-				<nav id="nav">				
-					<ul class="ul-right-margin">
-						<li><a href="right-sidebar.html">맛집</a></li>
-						
-					</ul>
-				</nav>
-				
-				<nav id="nav">				
-					<ul class="ul-right-margin-two">
-						
-						<li><a href="no-sidebar.html">숙소</a></li>
-					</ul>
-				</nav>
-				
-				<nav id="nav">				
-					<ul class="ul-right">
-							<li><a href="main.html">삼선</a></li>
-					</ul>
-				</nav>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="main.jsp">SIST 영화</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="main.jsp">Home</a></li>
+      <li><a href="#">자유게시판</a></li>
+      <li><a href="#">자료실</a></li>
+    </ul>
+  </div>
+</nav>
+
 </body>
 </html>

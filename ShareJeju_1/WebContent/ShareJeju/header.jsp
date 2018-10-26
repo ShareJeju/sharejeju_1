@@ -8,9 +8,6 @@
 </head>
 <body>
 	<div id="header">
-
-		<jsp:include page="navbar.jsp"></jsp:include>
-
 		<div class="container">
 
 			<!-- Logo -->

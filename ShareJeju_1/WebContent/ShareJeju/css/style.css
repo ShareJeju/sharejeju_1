@@ -844,7 +844,7 @@
 	
 	
 	
-	#nav
+	/* #nav
 	{
 				display: inline-block;
 				padding: .5em .5em;
@@ -854,11 +854,11 @@
 				font-size: 1.1em;
 				outline: 0;
 				background: rgba(0,0,0,.0);
-/* 				background-opacity: 0.1; */
+				background-opacity: 0.1;
 				top: 0;
 				left: 0;
 				width: 100%;
-	}
+	} */
 		
 		/* #nav > ul
 		{
