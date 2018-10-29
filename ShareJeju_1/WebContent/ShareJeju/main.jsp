@@ -32,7 +32,7 @@
 	<body class="homepage">
 
 	<!-- Header -->
-	
+	<jsp:include page="navbar.jsp"></jsp:include>
 	<jsp:include page="header.jsp"></jsp:include>
 
 		

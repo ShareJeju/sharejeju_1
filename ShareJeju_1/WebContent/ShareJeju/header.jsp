@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:include page="navbar.jsp"></jsp:include>
+
 	<div id="header">	
 		
 	<div class="container">					
