@@ -18,7 +18,20 @@
 			<li id="licenter_rogo"><a href="#">로고</a></li>
 			<li id="licenter_tasty"><a href="#">맛집</a></li>
 			<li id="licenter_hotels"><a href="#">숙소</a></li>
-			<li id="licenter_MY"><a href="#">MY</a></li>
+			<li id="licenter_MY">
+			    <div class="dropdown">
+				  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				    <img src = "images/menu.png" width="55px" height="40px">
+				  </a>
+				  <div class="dropdown-menu" >
+				    <a class="dropdown-item" href="mypage/mypage.jsp">마이페이지</a><br>
+				    <a class="dropdown-item" href="mypage/join.jsp">회원가입</a><br>
+				    <a class="dropdown-item" href="#">로그아웃</a><br>
+				  </div>
+				</div>
+		    </li>
+		    
+
 		</ul>
 		
 		
