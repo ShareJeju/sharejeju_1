@@ -21,7 +21,7 @@
 			<li id="licenter_MY">
 			    <div class="dropdown">
 				  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				    <img src = "images/menu.png" width="55px" height="40px">
+				    <img src = "images/menu.png" width="45px" height="30px" margin-top="5em">
 				  </a>
 				  <div class="dropdown-menu" >
 				    <a class="dropdown-item" href="mypage/mypage.jsp">마이페이지</a><br>
